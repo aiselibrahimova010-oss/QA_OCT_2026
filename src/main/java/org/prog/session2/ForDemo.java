@@ -5,7 +5,7 @@ package org.prog.session2;
 //TODO: count numbers that can be divided by 7 fully
 //TODO: count numbers that can be divided by 13 fully
 
-public class ForDemo {
+public class  ForDemo {
 
     public static void main(String[] args) {
         int j = 0;
